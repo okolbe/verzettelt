@@ -378,7 +378,7 @@ body.theme-dark > p:last-of-type {
 
 html:has(body.theme-bg) {
   min-height: 100vh;
-  background-image: url('./assets/bg.jpg');
+  background-image: url('./assets/rug.jpeg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
